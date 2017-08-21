@@ -1,0 +1,6 @@
+#File to ignore while tracking for github
+
+*.o
+*.d
+executable
+
